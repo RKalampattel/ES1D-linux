@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "Parameters.h"
 
 Parameters::Parameters(double qmIn, double wp, double e0In, double LIn, int NIn, 

@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "Field.h"
 
 Field::Field(Parameters inputs)

@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "PIC.h"
 
 PIC::PIC(Parameters inputs, double v0, double dx0)

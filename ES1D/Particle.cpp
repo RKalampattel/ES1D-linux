@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "Particle.h"
 
 Particle::Particle(Parameters inputs, double v0, double dx0)

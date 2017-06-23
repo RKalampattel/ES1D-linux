@@ -9,7 +9,6 @@ inputs to the program.
 Rahul Kalampattel, 21/06/2017
 */
 
-#include "stdafx.h"
 #include "PIC.h"
 
 int main()
@@ -42,8 +41,6 @@ int main()
 
 	// Create an instance of the PIC class to run the simulation
 	PIC ES1D(inputs, v0, dx0);
-
-	system("pause");
 
 	return 0;
 }

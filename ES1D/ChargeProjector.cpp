@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "ChargeProjector.h"
 
 ChargeProjector::ChargeProjector(Parameters inputs, Particle *particles, Field *fields)

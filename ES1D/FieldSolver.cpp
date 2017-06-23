@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "FieldSolver.h"
 
 FieldSolver::FieldSolver(Parameters inputs, Field *fields)

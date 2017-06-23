@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "ParticlePusher.h"
 
 ParticlePusher::ParticlePusher(Parameters inputs, Particle *particles, Field *fields, int t)
