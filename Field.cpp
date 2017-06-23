@@ -14,13 +14,13 @@ Field::Field(Parameters inputs)
 // Clear the rho vector
 void Field::clearRho()
 {
-	for (unsigned int i = 0; i < rho.size(); i++)
+	for (int i = 0; i < rho.size(); i++)
 		rho[i] = 0;
 }
 
 // Clear the phi vector
 void Field::clearPhi()
 {
-	for (unsigned int i = 0; i < phi.size(); i++)
+	for (int i = 0; i < phi.size(); i++)
 		phi[i] = 0;
 }
