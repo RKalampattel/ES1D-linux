@@ -1,4 +1,5 @@
 language: cpp
 compiler: g++
 os: linux
+before_script: cd ES1D
 script: make
